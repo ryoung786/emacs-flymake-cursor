@@ -29,11 +29,9 @@ It adds the following features:
 INSTALLATION
 ------------
 
-Place `flymake-cursor.el` within your Emacs `load-path` and the following to your
-`.emacs` file or your `init.el`:
-
-```lisp
-(eval-after-load 'flymake '(require 'flymake-cursor))
+The package is hosted on [MELPA](https://melpa.org) and [MELPA Stable](https://stable.melpa.org), so you can install it with
+```
+M-x package-install flymake-cursor
 ```
 
 CUSTOMIZATION
