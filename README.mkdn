@@ -9,6 +9,8 @@ flymake-cursor.el
 > -ryoung786
 ```
 
+[![MELPA Stable](http://stable.melpa.org/packages/flymake-cursor-badge.svg)](http://stable.melpa.org/#/flymake-cursor) [![MELPA](http://melpa.org/packages/flymake-cursor-badge.svg)](http://melpa.org/#/flymake-cursor)
+
 This project is a plugin for Emacs to work in conjunction with flymake.el
 it displays any flymake error for the current line on the minibuffer.
 
